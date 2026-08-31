@@ -37,10 +37,4 @@ The winning design utilizes a **52 mm axial pitch**, achieving an optimal balanc
 | **Input Coupling** | Rotex 160 | 877 N-m rated |
 | **Output Coupling**| Rexnord Omega 425 | 5580 N-m rated |
 
-## Repository Contents
-*   **`Design_Project_Full_Report.pdf`**: The comprehensive engineering report containing all calculations, configuration comparisons, ASME shaft sizing, bearing life analyses, and component selections.
-*   **`/MATLAB`** *(Upload your scripts here)*: The optimization code used to determine the ideal pitch and worm diameter via iterative proportional updating and pairwise tournament scoring.
-*   **`/CAD`** *(Upload your models here)*: 3D SolidWorks assembly models, including the split gearbox casing, stepped shafts, custom tapered bearing housings, and the full internal assembly.
 
-## License
-[Add your chosen license here, e.g., MIT, GPL, or state that all rights are reserved]
